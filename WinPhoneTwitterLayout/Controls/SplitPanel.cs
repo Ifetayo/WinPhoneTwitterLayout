@@ -25,7 +25,7 @@ namespace WinPhoneTwitterLayout.Controls
             if (this.Children.Count != 0)
             {
                 availableSize.Width /= ((double)this.Children.Count);
-                availableSize.Height = 50;
+                //availableSize.Height = 50;
             }
             foreach (var current in this.Children)
             {

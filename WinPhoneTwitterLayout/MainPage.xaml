@@ -86,7 +86,7 @@
             <ListBoxItem>
                     <Grid>
                         <TextBlock Name="txt0"></TextBlock>
-                        <Path Stretch="Uniform" UseLayoutRounding="False" Fill="{Binding Foreground, ElementName=txt0}" 
+                        <Path UseLayoutRounding="False" Fill="{Binding Foreground, ElementName=txt0}" 
                         HorizontalAlignment="Left" VerticalAlignment="Top" 
                         Data="M8.4897043,35.957584C8.1139871,35.963253 7.7342626,36.059986 7.3837401,
                               36.256923 6.2606875,36.889827 5.8622467,38.309032 6.4937173,39.431434 7.1253091,
@@ -153,7 +153,7 @@
             <ListBoxItem>
                     <Grid>
                         <TextBlock Name="txt1"></TextBlock>
-                        <Path Stretch="Uniform" Fill="{Binding Foreground, ElementName=txt1}" UseLayoutRounding="False"  
+                        <Path  Fill="{Binding Foreground, ElementName=txt1}" UseLayoutRounding="False"  
                         HorizontalAlignment="Left" VerticalAlignment="Top" 
                         Data="F1M37.5833,20.4798C40.1177,19.3086 42.8541,18.6393 45.6861,18.5859 46.8397,
                               18.5638 48.1556,19.1745 47.8841,17.7044 47.757,17.0032 46.8378,16.1309 46.3444,
@@ -173,7 +173,7 @@
             <ListBoxItem>
                     <Grid>
                         <TextBlock Name="txt2"></TextBlock>
-                        <Path Stretch="Uniform" Fill="{Binding Foreground, ElementName=txt2}" UseLayoutRounding="False"  
+                        <Path Fill="{Binding Foreground, ElementName=txt2}" UseLayoutRounding="False"  
                         HorizontalAlignment="Left" VerticalAlignment="Top" 
                         Data="M16.427376,13.800999C16.725569,13.800971 16.995066,13.808321 17.230986,
                               13.820046 19.914597,13.955345 22.013603,14.848646 24.680212,15.627247L24.680212,
@@ -207,7 +207,7 @@
                 <ListBoxItem>
                     <Grid>
                         <TextBlock Name="txt3"></TextBlock>
-                        <Path Stretch="Uniform" Fill="{Binding Foreground, ElementName=txt3}" UseLayoutRounding="False"  
+                        <Path Fill="{Binding Foreground, ElementName=txt3}" UseLayoutRounding="False"  
                         HorizontalAlignment="Left" VerticalAlignment="Top" 
                         Data="M48.439964,5.142L48.90358,5.4969459C56.046082,11.100353 60.599003,19.580186 60.599003,
                               29.07019 60.599003,45.94161 46.209522,59.620001 28.460596,59.620001 24.657763,
