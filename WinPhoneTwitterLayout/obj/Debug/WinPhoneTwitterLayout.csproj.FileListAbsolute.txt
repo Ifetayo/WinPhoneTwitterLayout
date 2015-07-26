@@ -1,4 +1,3 @@
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\App.g.cs
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Assets\ApplicationIcon.png
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
@@ -10,17 +9,9 @@ C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\WinPhoneTwitter
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\AppManifest.xaml
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Properties\WMAppManifest.xml
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\WinPhoneTwitterLayout_Debug_AnyCPU.xap
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\MainPage.g.cs
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.g.resources
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.Resources.AppResources.resources
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.csproj.GenerateResource.Cache
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.dll
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.pdb
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\XapCacheFile.xml
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Microsoft.Phone.Controls.dll
-C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.csprojResolveAssemblyReference.cache
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Microsoft.Expression.Controls.dll
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Microsoft.Phone.Controls.dll
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\Microsoft.Expression.Drawing.dll
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\System.Windows.Interactivity.dll
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
@@ -43,3 +34,11 @@ C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\ko\System.Windo
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\App.g.cs
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\MainPage.g.cs
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.g.resources
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.Resources.AppResources.resources
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.csproj.GenerateResource.Cache
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.dll
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\WinPhoneTwitterLayout.pdb
+C:\WINPHN8\WinPhoneTwitterLayout\WinPhoneTwitterLayout\obj\Debug\XapCacheFile.xml

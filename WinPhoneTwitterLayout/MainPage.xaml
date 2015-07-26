@@ -153,7 +153,7 @@
             <ListBoxItem>
                     <Grid>
                         <TextBlock Name="txt1"></TextBlock>
-                        <Path  Fill="{Binding Foreground, ElementName=txt1}" UseLayoutRounding="False"  
+                        <Path Fill="{Binding Foreground, ElementName=txt1}" UseLayoutRounding="False"  
                         HorizontalAlignment="Left" VerticalAlignment="Top" 
                         Data="F1M37.5833,20.4798C40.1177,19.3086 42.8541,18.6393 45.6861,18.5859 46.8397,
                               18.5638 48.1556,19.1745 47.8841,17.7044 47.757,17.0032 46.8378,16.1309 46.3444,
